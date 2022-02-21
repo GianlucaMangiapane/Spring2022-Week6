@@ -4,8 +4,10 @@
 
 This repository contains:
 
-- [kNN implementation from scratch](s1_run_myknn.py)
+- [HW1 Review]
 - [ML evaluation metrics](ML_EvalMetrics.ipynb)
+- [Nested_CV_Example](Nested_CV_Example.ipynb)
+- [SVM Brief Presentation](SVM_BriefPres.pdf)
 - [Introduction to satellite image analysis with Python, DSTL challenge](PrjA1_DSTL_ImgChannelsMasks.ipynb)
 - [A first machine learning application using Satellite imaging, DSTL challenge](PrjB3_DSTL_Clustering.ipynb)
 - [Image clustering, Philadelphia](PrjB4_Sentinel_Clustering.ipynb)
