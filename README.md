@@ -1,6 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week5: Evaluation metrics, images to numpy arrays, introduction to satellite images
+## Week6: ML using satellite images
 
 This repository contains:
 
