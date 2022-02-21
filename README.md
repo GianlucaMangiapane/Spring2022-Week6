@@ -29,6 +29,8 @@ Steps for replicating "PrjA1_DSTL_ImgChannelsMasks.ipynb" :
 - Go to Google Colab, copy the Jupyter notebook there (or copy it in your Google Drive, click on it and select "open in Colab")
 - Run the notebook (!!! you may need to edit the path to data)
 
+HW colab link:
+https://drive.google.com/drive/folders/1rFyQNKWcYuLE3x6tcbwBHqRqesd7_Sso?usp=sharing
 
 ### Article of the week:
 Very interesting article, please check:
